@@ -1,0 +1,14 @@
+{
+    "name": "sasaaaaa/uas_rizky_maulana",
+    "description": "Pemrograman Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "rizky maulana",
+            "email": "rizkymaulanasitorus@gmail.com"
+        }
+    ]
+}
